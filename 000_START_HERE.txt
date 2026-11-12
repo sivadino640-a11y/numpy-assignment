@@ -1,0 +1,1 @@
+Python NumPy L4 - 100 Answers\n\nOpen this folder in VS Code. Each numbered .py file contains one answer.\nRun any file with the VS Code Run button or: python filename.py\n\nIf NumPy is not installed, open the VS Code Terminal and run:\npip install numpy\n
